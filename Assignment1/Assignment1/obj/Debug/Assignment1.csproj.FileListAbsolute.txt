@@ -1,0 +1,7 @@
+D:\MCS-Sem-2\.Net-Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\MCS-Sem-2\.Net-Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\MCS-Sem-2\.Net-Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\MCS-Sem-2\.Net-Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\MCS-Sem-2\.Net-Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\MCS-Sem-2\.Net-Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\MCS-Sem-2\.Net-Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
